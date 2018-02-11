@@ -18,6 +18,8 @@ p{
 }
 
 .container-fluid{
-    max-width: 1366;
+    max-width: 1336;
     margin: 100px auto;
+    width: 5340;
+    
 }
